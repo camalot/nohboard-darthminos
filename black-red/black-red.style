@@ -1,0 +1,1147 @@
+{
+  "BackgroundColor": {
+    "Blue": 0,
+    "Green": 255,
+    "Red": 0
+  },
+  "BackgroundImageFileName": null,
+  "DefaultKeyStyle": {
+    "Loose": {
+      "Background": {
+        "Blue": 0,
+        "Green": 255,
+        "Red": 0
+      },
+      "BackgroundImageFileName": "keyup.png",
+      "Font": {
+        "FontFamily": "Segoe UI",
+        "Size": 20.25,
+        "Style": 1
+      },
+      "Outline": {
+        "Blue": 0,
+        "Green": 255,
+        "Red": 0
+      },
+      "OutlineWidth": 0,
+      "ShowOutline": false,
+      "Text": {
+        "Blue": 255,
+        "Green": 255,
+        "Red": 255
+      }
+    },
+    "Pressed": {
+      "Background": {
+        "Blue": 255,
+        "Green": 255,
+        "Red": 255
+      },
+      "BackgroundImageFileName": "keydown.png",
+      "Font": {
+        "FontFamily": "Segoe UI",
+        "Size": 20.25,
+        "Style": 1
+      },
+      "Outline": {
+        "Blue": 0,
+        "Green": 255,
+        "Red": 0
+      },
+      "OutlineWidth": 0,
+      "ShowOutline": false,
+      "Text": {
+        "Blue": 255,
+        "Green": 255,
+        "Red": 255
+      }
+    }
+  },
+  "DefaultMouseSpeedIndicatorStyle": {
+    "InnerColor": {
+      "Blue": 0,
+      "Green": 0,
+      "Red": 0
+    },
+    "OuterColor": {
+      "Blue": 255,
+      "Green": 255,
+      "Red": 255
+    },
+    "OutlineWidth": 3
+  },
+  "ElementStyles": [
+    {
+      "Key": 25,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "ctrlup.png",
+          "Font": {
+            "FontFamily": "Segoe UI",
+            "Size": 20.25,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 0,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "ctrldown.png",
+          "Font": {
+            "FontFamily": "Segoe UI",
+            "Size": 20.25,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 0,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        }
+      }
+    },
+    {
+      "Key": 32,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "capsup.png",
+          "Font": {
+            "FontFamily": "Segoe UI",
+            "Size": 9.75,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 0,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "capsdown.png",
+          "Font": {
+            "FontFamily": "Segoe UI",
+            "Size": 9.75,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 0,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        }
+      }
+    },
+    {
+      "Key": 0,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "tabup.png",
+          "Font": {
+            "FontFamily": "Segoe UI",
+            "Size": 20.25,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "OutlineWidth": 0,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "tabdown.png",
+          "Font": {
+            "FontFamily": "Segoe UI",
+            "Size": 20.25,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 0,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        }
+      }
+    },
+    {
+      "Key": 24,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "shiftup.png",
+          "Font": {
+            "FontFamily": "Segoe UI",
+            "Size": 20.25,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 0,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "shiftdown.png",
+          "Font": {
+            "FontFamily": "Segoe UI",
+            "Size": 20.25,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "OutlineWidth": 0,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        }
+      }
+    },
+    {
+      "Key": 26,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "altup.png",
+          "Font": {
+            "FontFamily": "Segoe UI",
+            "Size": 20.25,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 0,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "altdown.png",
+          "Font": {
+            "FontFamily": "Segoe UI",
+            "Size": 20.25,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 0,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        }
+      }
+    },
+    {
+      "Key": 2,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "keyup.png",
+          "Font": {
+            "FontFamily": "Segoe UI",
+            "Size": 20.25,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 0,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "keydown.png",
+          "Font": {
+            "FontFamily": "Segoe UI",
+            "Size": 20.25,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 0,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        }
+      }
+    },
+    {
+      "Key": 3,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "keyup.png",
+          "Font": {
+            "FontFamily": "Segoe UI",
+            "Size": 20.25,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 0,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "keydown.png",
+          "Font": {
+            "FontFamily": "Segoe UI",
+            "Size": 20.25,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 0,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        }
+      }
+    },
+    {
+      "Key": 4,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "keyup.png",
+          "Font": {
+            "FontFamily": "Segoe UI",
+            "Size": 20.25,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 0,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "keydown.png",
+          "Font": {
+            "FontFamily": "Segoe UI",
+            "Size": 20.25,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 0,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        }
+      }
+    },
+    {
+      "Key": 5,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "keyup.png",
+          "Font": {
+            "FontFamily": "Segoe UI",
+            "Size": 20.25,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 0,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "keydown.png",
+          "Font": {
+            "FontFamily": "Segoe UI",
+            "Size": 20.25,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 0,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        }
+      }
+    },
+    {
+      "Key": 6,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "keyup.png",
+          "Font": {
+            "FontFamily": "Segoe UI",
+            "Size": 20.25,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 0,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "keydown.png",
+          "Font": {
+            "FontFamily": "Segoe UI",
+            "Size": 20.25,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 0,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        }
+      }
+    },
+    {
+      "Key": 1,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "spaceup.png",
+          "Font": {
+            "FontFamily": "Segoe UI",
+            "Size": 20.25,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 0,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "spacedown.png",
+          "Font": {
+            "FontFamily": "Segoe UI",
+            "Size": 20.25,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 0,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        }
+      }
+    },
+    {
+      "Key": 27,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "mouseleftbuttonup.png",
+          "Font": {
+            "FontFamily": "Segoe UI",
+            "Size": 11.25,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 0,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "mouseleftbuttondown.png",
+          "Font": {
+            "FontFamily": "Segoe UI",
+            "Size": 11.25,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 0,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 21,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "mousewheelup.png",
+          "Font": {
+            "FontFamily": "Segoe UI",
+            "Size": 11.25,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 0,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "mousewheelscrollup.png",
+          "Font": {
+            "FontFamily": "Segoe UI",
+            "Size": 12.25,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 0,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        }
+      }
+    },
+    {
+      "Key": 22,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "mousewheelup.png",
+          "Font": {
+            "FontFamily": "Segoe UI",
+            "Size": 11.25,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 0,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "mousewheelscrolldown.png",
+          "Font": {
+            "FontFamily": "Segoe UI",
+            "Size": 12.25,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 0,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        }
+      }
+    },
+    {
+      "Key": 23,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "mousewheelup.png",
+          "Font": {
+            "FontFamily": "Segoe UI",
+            "Size": 11.25,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 0,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "mousewheeldown.png",
+          "Font": {
+            "FontFamily": "Segoe UI",
+            "Size": 11.25,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 0,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 28,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "mouserightbuttonup.png",
+          "Font": {
+            "FontFamily": "Segoe UI",
+            "Size": 11.25,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 0,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "mouserightbuttondown.png",
+          "Font": {
+            "FontFamily": "Segoe UI",
+            "Size": 11.25,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 0,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 29,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "mousesidebutton1up.png",
+          "Font": {
+            "FontFamily": "Segoe UI",
+            "Size": 11.25,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 0,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "mousesidebutton1down.png",
+          "Font": {
+            "FontFamily": "Segoe UI",
+            "Size": 11.25,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 0,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 30,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "mousesidebutton2up.png",
+          "Font": {
+            "FontFamily": "Segoe UI",
+            "Size": 11.25,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 0,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "mousesidebutton2down.png",
+          "Font": {
+            "FontFamily": "Segoe UI",
+            "Size": 11.25,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 0,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 99,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "mousebody.png",
+          "Font": {
+            "FontFamily": "Segoe UI",
+            "Size": 11.25,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 0,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "mousebody.png",
+          "Font": {
+            "FontFamily": "Segoe UI",
+            "Size": 11.25,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 0,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 12,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": null,
+        "Pressed": null
+      }
+    }
+  ]
+}
